@@ -1,0 +1,208 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#022434",
+            "lang-select-color": "#222829",
+            "bg-light": "#022434",
+            "welcome-bonus-bg": "#022434",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#032B3D",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#278391",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#278391",
+            "yellow-button": "#01763A",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#022434",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#278391",
+            "providers-back": "#022434",
+            "faq-label": "#022434",
+            "bg-footer": "#022434",
+            "copyright": "#e7e7d5",
+            "starColor": "#278391",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3367"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3368",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Slotuna Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3369",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Slotuna"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Slotuna",
+                    "title": " Slotuna: Pokies, Live Casino, Sportsbook — 100% up to 500 + 200 Free Spins",
+                    "description": " Welcome to Slotuna: thousands of pokies, jackpot action, live casino with real dealers and game shows, plus a smooth sportsbook experience. Claim your 100% up to 500 welcome offer with 200 free spins, join tournaments, enjoy fast banking options, and unlock bigger perks through our VIP ladder.",
+                    "canonical": "slotuna-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3370",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "slotuna-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3371"
+                },
+                "hero": {
+                    "title": "Slotuna — Online Casino & Sports Betting with Bonuses, Live Games and Jackpots",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3372",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3373",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Thousands of pokies, new drops daily",
+                        "Welcome offer 100% + 200 free spins",
+                        "Big jackpots and frequent win moments",
+                        "Live casino with dealers and shows",
+                        "Tournaments with generous prize pools",
+                        "Fast banking: cards, e-wallets, crypto",
+                        "VIP ladder with boosted privileges"
+                    ],
+                    "advantagesAfterText": "We’ve built a place where it’s easy to find your favourites and enjoy every spin and bet to the fullest. Play smoothly on any device, while promos and events keep the experience exciting. Our mix of games, tournaments and rewards makes every session feel packed and rewarding.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Slotuna App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3374",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Slotuna App",
+                    "mobileGooglePlayImageTitle": "Slotuna App",
+                    "mobileIosImageTitle": "Slotuna App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Slotuna",
+                        "description1": "We stand out by bringing casino and sportsbook together in one account, so your win moments stay seamless. We also run signature reward mechanics and interactive entertainment to make every session feel bigger.\n",
+                        "items": [
+                            "100% up to 500 +200 FS.",
+                            "Jackpots up to 387,000.",
+                            "VIP cashouts up to 20,000\/mo."
+                        ],
+                        "description2": "We’re Slotuna, and everything here is designed so you can enjoy the experience from the very first minute. Our lobby brings together thousands of pokies with different themes, features and volatility levels, so you can find your perfect pace. If you love the vibe of a real casino floor, jump into our live casino and play with real dealers in real time. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3375",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "For players who want extra energy, we also feature game shows with punchy rounds and fast outcomes. We run tournaments and slot races where you climb the leaderboard and compete for prizes. One of our highlights is interactive entertainment that turns rewards into a genuine event. Our bonus offers give you a strong start so your first deposits deliver more spins and more chances at exciting hits. Throughout the year we launch themed promos so holiday periods and major sporting weeks feel bigger inside the platform. Sports fans can enjoy a dedicated sportsbook with a smooth pre-match line and live betting for in-the-moment action. We’ve built a reward flow where every spin and every bet helps you progress. Our loyalty approach is made to unlock more perks as you play, while the VIP ladder opens boosted conditions and tailored bonuses. You can play on mobile or desktop with no fuss, keeping full access to every section. We support widely used deposit and withdrawal options so managing your balance stays simple and fast. Account and payment security is a priority, so we apply modern data protection standards. Our support team is always ready to guide you through bonuses, gameplay or banking questions. We believe great service means everything feels clear, smooth and player-friendly. That’s why we keep expanding the game library, adding new events, and making rewards more valuable. Welcome to Slotuna — where excitement, entertainment and winning moments come together as one bright story.\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Slotuna: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotuna Play & Access Rules: Comfort and Safety\n<\/h3>\n\n<p>\nWe keep our rules clear so the experience stays enjoyable, fair and secure for everyone. To use our service, you’ll need one personal account and accurate details. We ask you to meet age requirements and use the account for personal play only. Deposits and withdrawals should be made using payment methods owned by the account holder. We maintain transparent promos and tournaments, so it’s important to follow offer terms and betting rules. We support responsible play with self-control tools so you can manage time and spending. We protect game integrity and don’t allow any attempts to interfere with the platform. We respect privacy while also applying identity checks to keep payments safe. We expect respectful communication with support and other players, especially in live areas. We may restrict access if rules are broken to keep the environment secure. Our goal is for you to feel confident, calm and fully in control each time you log in.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccess & Use Conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nOne account per person with accurate information\n\n<\/li>\n            <li>• \nIdentity verification when requested for secure withdrawals\n\n<\/li>\n            <li>• \nPlay and bets only by the account owner\n\n<\/li>\n            <li>• \nUse payment methods owned by the account holder\n\n<\/li>\n\t    <li>• \nFollow bonus, tournament and stake-limit conditions\n\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited Actions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nUnderage access or bypassing age controls\n\n<\/li>\n            <li>• \nMultiple accounts or sharing an account\n\n<\/li>\n            <li>• \nFraud, collusion, or bonus abuse tactics\n\n<\/li>\n            <li>• \nInterference, automation tools, or hacking attempts\n\n<\/li>\n\t    <li>• \nAbuse, threats, or toxic communication\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible Play\n\n\n<\/h4>\n\n <ul>\n            <li>• \nDeposit limits: daily\/weekly\/monthly\n\n<\/li>\n            <li>• \nTime-out: pause your access for a set period\n\n<\/li>\n            <li>• \nSelf-exclusion: longer break on request\n\n<\/li>\n            <li>• \nSession control: reminders on time and activity\n\n<\/li>\n\t    <li>• \nSupport: guidance to set healthy boundaries\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotuna Licensing & Data Security: Trust First\n\n<\/h3>\n\n<p>\nWe operate under an international gaming licence and follow strict standards for fair play and financial safety. Licensing requirements support transparent rules, correct payment handling, and a responsible approach to player protection. We continuously refine our internal processes to stay aligned with modern industry practices. For us, security isn’t a slogan — it’s a system embedded into every workflow. That’s why we focus on both legal compliance and technical safeguards.\n\n<\/p>\n<br>\n\n\n<p>\nData protection starts with encrypting the connection between your device and our platform. We use modern TLS\/SSL protocols so information in transit is protected from interception. This covers account logins, profile actions, and balance operations. We also apply system segmentation and access controls to limit which services and staff can handle sensitive information. This approach reduces risk and strengthens confidentiality at every stage.\n\n<\/p>\n<br>\n<p>\nPayment security is supported through layered controls: transaction monitoring, anti-fraud checks, and identity verification procedures. In certain cases we may request KYC documents to protect the account owner and prevent unauthorised transactions. We apply anti-fraud and financial integrity principles so your balance stays protected. Payments are processed through secured channels using industry-aligned practices. The goal is to keep deposits and withdrawals smooth while staying highly secure.\n\n<\/p>\n<br>\n<p>\nOur privacy policy explains what data we collect, why we need it, and how long it may be retained. We use information only to deliver the service: registration, verification, support, payments, and improving the player experience. We follow a data minimisation principle — collecting only what’s necessary. We also use cookies and technical identifiers to keep the site working properly and to protect your account. You can manage parts of your privacy settings via device and browser controls, and through account tools.\n\n<\/p>\n<br>\n<p>\nWe keep strengthening account safety with security tools like strong password standards, important-action notifications, suspicious login controls, and additional checks when needed. We maintain event logs to detect anomalies and prevent threats quickly. We want you to feel confident at every step — from sign-up to withdrawing your winnings. If you have questions about privacy or protection, our support team can guide you through best-practice settings. At Slotuna, trust is built through daily practice, not promises.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotuna Support: Fast, Clear, Helpful\n<\/h3>\n\n<p>\nOur support team is built to help you without delays or confusion. We assist with accounts, bonuses, betting, games, tournaments and banking. Live chat is the fastest option, delivering real-time solutions. Email is ideal for detailed requests, especially when documents are involved. We also offer phone support for urgent situations where speed and accuracy matter most. We aim for concise, practical answers rather than generic templates. Our specialists understand bonus mechanics and tournament rules, so you get both technical and gameplay guidance. We focus on service quality: polite communication, clear steps, and follow-through until it’s resolved. If needed, we’ll guide you through setting limits, time-outs or self-exclusion. We keep improving our knowledge base so help stays current and easy to understand. Our mission is to make every step inside Slotuna feel confident and smooth.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact Channels\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: quick replies and step-by-step help\n\n<\/li>\n            <li>• \nEmail: detailed cases with files and documents\n\n<\/li>\n            <li>• \nPhone: urgent access and transaction assistance\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse Times & Service\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: typically within minutes\n\n<\/li>\n            <li>• \nEmail: detailed replies usually within 24 hours\n\n<\/li>\n            <li>• \nPhone: real-time consultation for urgent needs\n\n<\/li>\n            <li>• \nComplex cases: handled through to completion\n\n<\/li>\n\t    <li>• \nClear explanations of rules and offer terms\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguages\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSupport in English plus other common interface languages\n\n<\/li>\n            <li>• \nClarifying details in a language that suits you where possible\n\n<\/li>\n            <li>• \nOne quality standard across all contact methods\n\n<\/li>\n\n        <\/ul><br>\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Slotuna",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotuna Loyalty Program: Play More, Get More\n<\/h3>\n<p>\nOur loyalty program is built so every spin and every bet delivers not only excitement but real perks. You earn Coins through activity and use them in our rewards shop, where it’s easy to pick the right bonus for your style. We keep progress clear: the more you play, the faster your level and privileges grow. Loyalty here isn’t a one-off promo — it’s an always-on system that works every day. You don’t need to memorise complicated rules — your status and available rewards are visible right in your account. We reward consistent play, with benefits unlocking steadily and predictably. A key part is our VIP ladder, where levels unlock boosted conditions, tailored offers and bigger limits. We also add daily and weekly rewards so you feel the value more often. Higher tiers can access cashback, free spins and special tickets for our interactive features. As your status rises, you get more personalisation — from priority support to custom bonuses. Your progress works across both casino and sportsbook, keeping everything in one place. We built loyalty to be transparent, generous and genuinely valuable over time.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow to Join\n\n\n<\/h4>\n\n <ul>\n            <li>• \nCreate an account and verify your contact details\n\n<\/li>\n            <li>• \nPlay pokies, live casino and place bets to earn Coins\n\n<\/li>\n            <li>• \nFollow fair play rules and promo terms\n\n<\/li>\n            <li>• \nUse one account to build your status\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLevels & How to Reach Them\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBronze: entry level after sign-up and first activity\n\n<\/li>\n            <li>• \nSilver: steady play and regular deposits unlock more rewards\n\n<\/li>\n            <li>• \nGold: higher activity pace, tournaments and frequent sessions\n\n<\/li>\n            <li>• \nPlatinum: consistent high volume with top-tier perks\n\n<\/li>\n\t    <li>• \nVIP: tailored conditions, personalised offers and expanded benefits\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRewards & Benefits\n\n\n<\/h4>\n\n <ul>\n            <li>• \nRewards Shop: up to 1,000 bonus units — swap Coins for bonus funds, free spins and free bets\n\n<\/li>\n            <li>• \nWeekly Cashback: up to 15% — return part of your activity as a bonus\n\n<\/li>\n            <li>• \nExclusive Free Spins: up to 200 per period — rewards for active tiers\n\n<\/li>\n            <li>• \nFree Bets: up to 100 — boost selected sports wagers\n\n<\/li>\n\t    <li>• \nHigher Cashout Limits: up to 20,000 per month — available on upper tiers\n\n<\/li>\n\t    <li>• \nPriority Support — faster resolutions and guided assistance\n\n<\/li>\n\t    <li>• \nPersonalised Offers — custom bonuses matched to your play style\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotuna Bonuses & Events: Bigger, Brighter Sessions\n<\/h3>\n\n<p>\nWe run bonuses and special offers regularly so every session brings more excitement and more opportunity. Right from the start, you can claim a welcome pack that boosts your first steps and adds free spins. Sports fans get dedicated first-bet style offers so your debut feels stronger. During the week we activate promos that add extra value to deposits or bring special perks for live play. We love seasonal events — holidays, major competitions and sporting finals often come with themed missions. In pokies, slot races and tournaments let you climb the leaderboard and collect prizes. If you want more interaction, our entertainment features turn rewards into an event — you don’t just receive a bonus, you “win” it through the experience. We keep mechanics varied: free spins, cashback, bonus funds, free bets and prize tickets. Our promos suit different play styles, from relaxed sessions to high-energy runs. Terms stay clear, so you see conditions, timeframes and wagering details upfront. Many promos pair naturally with tournaments, giving you double value — bonus perks plus leaderboard prize potential. Live tables also feature regular specials to make your favourite games feel even better. On the sportsbook side, we support boosts and offers around key weekly fixtures. And if you chase big moments, we create reasons to return to hot jackpots and featured pokies more often. Everything is designed so you can play your way, with meaningful extra value from us.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKey Bonuses & Offers\n<\/h4>\n\n <ul>\n            <li>• \nWelcome Pack: 100% up to 500 + 200 Free Spins — boosted start for early deposits\n\n<\/li>\n            <li>• \nBonus Crab: 1 ticket included — interactive reward with chances for free spins, bonus funds or prizes\n\n<\/li>\n            <li>• \nSports First Deposit Bonus: 100% up to 100 — extra bankroll for your first wagers\n\n<\/li>\n            <li>• \nWeekend Reload: 50% up to 700 + 50 Free Spins — reload on weekends with extra value\n\n<\/li>\n\t    <li>• \nLive Cashback: 25% up to 200 — cashback for live tables and game shows\n\n<\/li>\n\t    <li>• \nTournaments & Races: prize pools up to 10,000 — compete in pokies and collect rewards\n\n<\/li>\n\t    <li>• \nSeasonal Missions: bonuses up to 300 — tasks during holidays and major events\n\n<\/li>\n\t    <li>• \nJackpot Hunting: payouts up to 387,000 — chase big moments in featured jackpots\n\n<\/li>\n\t    <li>• \nSports Accumulator Promos: free bets up to 50 — support for selected weekly matches\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotuna Games & Betting: A Full Range of Action\n<\/h3>\n\n<p>\nWe’ve built a library where you can match any mood — from chilled pokies to high-tension live tables. In pokies you’ll find classic and modern mechanics like Megaways, Hold & Win, Buy Bonus and a wide mix of themed series. If you chase big moments, our jackpots and “hot picks” sections bring extra energy. For table game lovers, choose from multiple versions of roulette, blackjack, baccarat and other favourites. In live casino you get the real-floor vibe with dealers, chat and live interaction. We also offer game shows where each round feels like an event and the pace stays high. If you like quick decisions, instant games and arcade-style formats are a perfect fit. On the sportsbook, you can bet on popular sports and follow matches in live mode. We support in-play betting so you can catch odds at the right moment. One account lets you switch smoothly between pokies, live games and sports while keeping one balance and one reward flow. And if you love competition, jump into tournaments and races where play turns into prize chasing.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain Game & Betting Sections\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPokies — thousands of titles, varied volatility, bonus rounds\n\n<\/li>\n            <li>• \nJackpots — progressive and fixed prizes for big-hit hunting\n\n<\/li>\n            <li>• \nTable Games — roulette, blackjack, baccarat, poker formats\n\n<\/li>\n            <li>• \nLive Casino — real dealers, authentic atmosphere, chat\n\n<\/li>\n\t    <li>• \nGame Shows — bright studios, fast rounds, interactive features\n\n<\/li>\n\t    <li>• \nInstant Games — quick formats for shorter sessions\n\n<\/li>\n\t    <li>• \nSportsbook — pre-match markets and live betting on key sports\n\n<\/li>\n\t    <li>• \nEsports & Virtual Events — dynamic markets for modern fans\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotuna Betting Limits: Minimums and Maximums by Format\n<\/h3>\n\n<p> \nWe keep stake ranges flexible so you can play at your own pace — from careful starts to high-limit action. Minimum stakes are great for learning mechanics, while maximums suit players who enjoy bigger swings. Exact values can vary by provider, table or mode, but the guide below gives a clear baseline. Use it to pick games that match your bankroll and style faster.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color:#278391;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Pokies<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">100<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Jackpots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">200<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">20,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">20,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Game Shows<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">4,500<\/td>\n    <\/tr>\n  \n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sportsbook (Singles)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">20,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sportsbook (Multis)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Instant Games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2,000<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotuna Withdrawals: Methods, Speed and Limits\n<\/h3>\n\n<p>\nWe keep withdrawals clear and convenient so you can access your winnings smoothly. In your account, you choose a withdrawal method and see the available options right away. Payout speed depends on the method: e-wallets and crypto are typically the fastest for most players. Cards and bank transfers may take extra time due to external processing. We use a standard identity verification process to protect your account and prevent unauthorised activity. KYC usually involves proof of identity, proof of address, and payment method confirmation. Once verified, your details are kept on file to make future withdrawals simpler. We apply transparent limits: entry levels offer comfortable cashout volumes, while the VIP ladder expands your capacity. You can plan ahead using daily and monthly thresholds. The flow stays easy to follow: request — review — approval — crediting. If you ever need an update on your payout status, our support team is ready to help and guide you through the fastest next step. Our goal is to balance speed, safety and predictability so your win moments stay stress-free.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal Methods\n\n\n<\/h4>\n\n <ul>\n            <li>• \nCrypto — fast transfers with strong user control\n\n<\/li>\n            <li>• \nE-wallets — quick crediting after approval\n\n<\/li>\n            <li>• \nBank Cards — classic option with provider processing time\n\n<\/li>\n            <li>• \nBank Transfer — reliable choice for larger sums\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPayout Speed & Processing Times\n\n\n<\/h4>\n\n <ul>\n            <li>• \nCrypto & e-wallets: typically instant to 24 hours after approval\n\n<\/li>\n            <li>• \nCards & bank transfers: commonly 1–3 business days after approval\n\n<\/li>\n            <li>• \nVerification (KYC): applied for safety before first major withdrawal\n\n<\/li>\n            <li>• \nRepeat withdrawals: often faster once verified\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCashout Limits\n\n\n<\/h4>\n\n <ul>\n            <li>• \nEntry levels: up to 500 per day and 7,000 per month\n\n<\/li>\n            <li>• \nVIP levels: up to 20,000 per month (status-dependent)\n\n<\/li>\n            <li>• \nLimits may vary by method and security checks\n\n<\/li>\n            <li>• \nLarger sums can be planned as staged withdrawals\n\n<\/li>\n\n        <\/ul><br>\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Can I play in demo mode?",
+                            "answer": "Yes, many games include demo play so you can test mechanics and pick favourites without risking your balance.\n\n\n"
+                        },
+                        {
+                            "title": "Do I need to download an app?",
+                            "answer": "No — our platform is mobile-optimised, so you can play in your browser with full features.\n\n\n"
+                        },
+                        {
+                            "title": "How do I activate the welcome offer?",
+                            "answer": "After signing up, make your first deposit and the offer applies according to promo terms, including free spins.\n\n\n"
+                        },
+                        {
+                            "title": "What is Bonus Crab and how does it work?",
+                            "answer": "It’s an interactive reward feature: you receive a ticket, control the claw, and win a prize such as free spins or bonus funds.\n\n\n"
+                        },
+                        {
+                            "title": "Can I set deposit and time limits?",
+                            "answer": "Yes — you can set deposit limits, time-outs and self-exclusion inside your account to stay in control.\n\n\n"
+                        },
+                        {
+                            "title": "Can I use one balance for casino and sports?",
+                            "answer": "Yes — we use a single wallet so you can switch between casino and sportsbook without extra transfers.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://slotuna-online.com/
+Sitemap: https://slotuna-online.com/sitemap.xml

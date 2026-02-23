@@ -1,0 +1,19 @@
+{
+  "name": "Slotuna",
+  "short_name": "Slotuna",
+  "theme_color": "",
+  "background_color": "#022434",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1771842049-favicon-41.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
